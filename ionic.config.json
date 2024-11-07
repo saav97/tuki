@@ -1,0 +1,8 @@
+{
+  "name": "tuki",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "23b86c3f"
+}
